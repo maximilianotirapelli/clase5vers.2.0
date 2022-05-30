@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 Este trabajo grupal si se puede ver.......
 Gabriel - Avellaneda, 30
 Tony - CABA, 30
 Luca - Lincoln, 19
+=======
+Maxi1 - Paternal, 33
+Maxi2 - Córdoba, 23
+Lautaro - Santa fe, 24
+Mercedes - CABA, 35
+Este trabajo grupal si se puede ver.......
+
+>>>>>>> c24203d3b9298a6e2b3b0e4a4359abb8635d81e2
